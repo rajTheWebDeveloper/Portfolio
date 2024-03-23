@@ -1,7 +1,7 @@
 import React,{useRef, useState} from 'react'
 import styled from 'styled-components'
 import { FaGithub } from "react-icons/fa";
-import resumePdf from '../assets/Resume (10).pdf'
+import resumePdf from '../assets/RajResume.pdf'
 
 const Blurbar = () => {
 
