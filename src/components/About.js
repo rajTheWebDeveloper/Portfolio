@@ -38,7 +38,7 @@ const About = () => {
           setActivate(false)
          }
        })
-     },{threshold:0.5})
+     },{threshold:0.3})
 
      observer.observe(aboutRef.current)
 
