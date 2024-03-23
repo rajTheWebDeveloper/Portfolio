@@ -100,6 +100,7 @@ let StyledHero = styled.section`
     .container .starboard 
     {
       width: 70%;
+      max-width: 300px;
       object-fit: cover;
       text-align: center;
       margin: 0 auto;
