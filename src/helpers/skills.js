@@ -4,6 +4,7 @@ let skills=[
     "NodeJS",
     "Express",
     "MongoDB",
+    "Mongoose",
     "Tailwind CSS",
     "Redux Tool Kit",
     "React Testing Library",

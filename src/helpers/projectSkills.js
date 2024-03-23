@@ -4,6 +4,7 @@ let projectSkills = [
   "NodeJS",
   "Express",
   "MongoDB",
+  "Mongoose",
   "Redux Tool Kit",
   "React Testing Library",
   "JavaScript",
