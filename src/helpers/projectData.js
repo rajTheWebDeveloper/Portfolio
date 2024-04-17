@@ -39,7 +39,7 @@ let projectData = [
   },
   {
     projectName: "Solar Quiz",
-    url: "https://lorem-generator-buddy.netlify.app/",
+    url: "https://solar-quiz.netlify.app/",
     description: "https://github.com/rajTheWebDeveloper/SolarQuiz",
     description: "An interactive quiz app about solar system.",
   },

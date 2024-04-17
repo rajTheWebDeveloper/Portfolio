@@ -18,7 +18,7 @@ import Comfurniture from "../images/Comfurniture.png";
 import projectData from '../helpers/projectData';
 import styled from 'styled-components';
 import ProjectCard from './ProjectCard';
-
+import SolarQuiz from '../images/SolarQuiz.png'
 
 const Projects = () => {
    let { setIndex } = useContext(HostContext);
@@ -101,6 +101,9 @@ const Projects = () => {
               }
               if (projectName === "Stripe Landing") {
                 imagePath = StripeLanding;
+              }
+              if (projectName === "Solar Quiz") {
+                imagePath = SolarQuiz;
               }
               if (projectName === "Cart") {
                 imagePath = Cart;
