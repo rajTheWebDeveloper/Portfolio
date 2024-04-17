@@ -38,6 +38,12 @@ let projectData = [
     description: "A tool for generating Lorem Ipsum placeholder text.",
   },
   {
+    projectName: "Solar Quiz",
+    url: "https://lorem-generator-buddy.netlify.app/",
+    description: "https://github.com/rajTheWebDeveloper/SolarQuiz",
+    description: "An interactive quiz app about solar system.",
+  },
+  {
     projectName: "Tabs",
     url: "https://tabs-buddy.netlify.app/",
     githubUrl: "https://github.com/rajTheWebDeveloper/TabsBuddy",
@@ -77,7 +83,7 @@ let projectData = [
   {
     projectName: "Stripe Landing",
     url: "https://stripe-buddy.netlify.app",
-    githubUrl:"https://github.com/rajTheWebDeveloper/Stripe",
+    githubUrl: "https://github.com/rajTheWebDeveloper/Stripe",
     description:
       "A landing page for products or services using Stripe integration.",
   },
