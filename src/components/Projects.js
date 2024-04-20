@@ -112,7 +112,7 @@ const Projects = () => {
               if (projectName === "Comfurniture") {
                 imagePath = Comfurniture;
               }
-              if (projectName === "WorldGDPExplorer") {
+              if (projectName === "World GDP Explorer") {
                 imagePath = WorldGDPExplorer;
               }
               return (
