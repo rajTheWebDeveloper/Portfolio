@@ -34,20 +34,21 @@ let projectData = [
   {
     projectName: "Lorem Generator",
     url: "https://lorem-generator-buddy.netlify.app/",
-    description: "https://github.com/rajTheWebDeveloper/LoremGenerator",
+    githubUrl: "https://github.com/rajTheWebDeveloper/LoremGenerator",
     description: "A tool for generating Lorem Ipsum placeholder text.",
   },
   {
     projectName: "Solar Quiz",
     url: "https://solar-quiz.netlify.app/",
-    description: "https://github.com/rajTheWebDeveloper/SolarQuiz",
+    githubUrl: "https://github.com/rajTheWebDeveloper/SolarQuiz",
     description: "An interactive quiz app about solar system.",
   },
   {
     projectName: "World GDP Explorer",
     url: "https://world-gdp-explorer.netlify.app/",
-    description: "https://github.com/rajTheWebDeveloper/World-GDP-Explorer",
-    description: "A simple GDP satistics website demonstrating the usage of bar charts and pie charts",
+    githubUrl: "https://github.com/rajTheWebDeveloper/World-GDP-Explorer",
+    description:
+      "A simple GDP satistics website demonstrating the usage of bar charts and pie charts",
   },
   {
     projectName: "Tabs",
