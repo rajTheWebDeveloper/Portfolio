@@ -44,6 +44,12 @@ let projectData = [
     description: "An interactive quiz app about solar system.",
   },
   {
+    projectName: "World GDP Explorer",
+    url: "https://world-gdp-explorer.netlify.app/",
+    description: "https://github.com/rajTheWebDeveloper/World-GDP-Explorer",
+    description: "A simple GDP satistics website demonstrating the usage of bar charts and pie charts",
+  },
+  {
     projectName: "Tabs",
     url: "https://tabs-buddy.netlify.app/",
     githubUrl: "https://github.com/rajTheWebDeveloper/TabsBuddy",

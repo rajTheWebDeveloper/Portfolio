@@ -7,7 +7,7 @@ let projectSkills = [
   "Mongoose",
   "Redux Tool Kit",
   "React Testing Library",
-  "JavaScript",
+  "TypeScript",
   "Styled Components",
   "Git",
   "Confluence",

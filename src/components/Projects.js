@@ -19,6 +19,7 @@ import projectData from '../helpers/projectData';
 import styled from 'styled-components';
 import ProjectCard from './ProjectCard';
 import SolarQuiz from '../images/SolarQuiz.png'
+import WorldGDPExplorer from '../images/WorldGDPExplorer.png'
 
 const Projects = () => {
    let { setIndex } = useContext(HostContext);
@@ -110,6 +111,9 @@ const Projects = () => {
               }
               if (projectName === "Comfurniture") {
                 imagePath = Comfurniture;
+              }
+              if (projectName === "WorldGDPExplorer") {
+                imagePath = WorldGDPExplorer;
               }
               return (
                 <ProjectCard imagePath={imagePath} idx={idx} item={item}/>
