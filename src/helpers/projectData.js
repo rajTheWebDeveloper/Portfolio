@@ -1,11 +1,11 @@
 let projectData = [
-  // {
-  //   projectName: "Comfurniture",
-  //   url: "https://comfurniture.netlify.app",
-  //   githubUrl: "https://github.com/rajTheWebDeveloper/Comfurniture-Frontend",
-  //   description:
-  //     "A fully functional website with range of exquisite furniture to choose from",
-  // },
+  {
+    projectName: "Comfurniture",
+    url: "https://comfurniture.netlify.app",
+    githubUrl: "https://github.com/rajTheWebDeveloper/Comfurniture-Frontend",
+    description:
+      "A fully functional website with range of exquisite furniture to choose from",
+  },
   {
     projectName: "Color Generator",
     url: "https://color-picker-buddy.netlify.app/",
